@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+super+x"], "command": "library_paste"},
+  { "keys": ["ctrl+super+y"], "command": "multi_number_insert"}
+]

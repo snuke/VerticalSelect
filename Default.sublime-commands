@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "VerticalSelect: add cursor just below the current cursor",
+        "command": "vertical_select"
+    },
+    {
+        "caption": "VerticalSelect: insert consecutive numbers at cursor locations",
+        "command": "multi_number_insert"
+    }
+]
