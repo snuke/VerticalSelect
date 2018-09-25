@@ -8,7 +8,7 @@ VerticalSelect
 探すコストの方が高い時・既にあるものが気に入らない時・自由にカスタマイズがしたい時等は、車輪の再発明をどんどんすべきだと思っているので恥ずつもりはないです。
 
 
-###　概要
+### 概要
 
 カーソルを１つ下に追加できます
 
@@ -46,7 +46,7 @@ touch data04.txt
 みたいになります
 
 
-###　導入方法
+### 導入方法
 
 1. PackageControlを入れてない場合は入れる（[PackageControle](https://packagecontrol.io/installation#st2)）
 2. コマンドパレットを開いて（macなら⌘+shift+P、windowsはctrl+shift+P）「add rep」と入力してEnter
