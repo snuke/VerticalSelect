@@ -3,7 +3,7 @@ VerticalSelect
 
 # 追記
 
-これは、"select_lines"って機能と同等なんですが、MacだとMission Controlと被るのでkeybindを適当に変えておきましょう。
+これは、"select_lines"って機能とほぼ同等なんですが、MacだとMission Controlと被るのでkeybindを適当に変えておきましょう。
 
 探すコストの方が高い時・既にあるものが気に入らない時・自由にカスタマイズがしたい時等は、車輪の再発明をどんどんすべきだと思っているので恥ずつもりはないです。
 
